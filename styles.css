@@ -1,0 +1,26 @@
+.div{
+    background-color: aqua;
+    width: 40%;
+    border: 1px solid black;
+    height: 1800px;
+}
+#header{
+    
+    height: 100px;
+    font-size: 100px;
+    
+    
+}
+#p1{
+    
+    height: 30px;
+    
+    font-size: 30px;
+}
+#p2{
+font-size: 40px;
+text-decoration: underline 20px;
+}
+#same{
+    font-size: 30px;
+}
